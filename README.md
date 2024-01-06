@@ -62,5 +62,5 @@ services:
 ```
 Run 
 ```bash
-sudo docker compose -p glasses -f ./docker-compose.dev.yml up -d --build
+sudo docker compose -p glasses_store -f ./docker-compose.dev.yml up -d --build
 ```
