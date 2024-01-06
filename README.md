@@ -1,19 +1,19 @@
-## Getting Started
+# Getting Started
 
 ```bash
-    yarn init-project
+yarn init-project
 ```
 
-# Run dev mode
+### Run dev mode
 
 ```bash
-    yarn dev
+yarn dev
 ```
 
-# Run production mode
+### Run production mode
 
 ```bash
-    yarn build
-    #after
-    yarn start
+yarn build
+#after
+yarn start
 ```
