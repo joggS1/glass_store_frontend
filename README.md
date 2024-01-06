@@ -4,13 +4,13 @@
 yarn init-project
 ```
 
-### Run dev mode
+# Run dev mode
 
 ```bash
 yarn dev
 ```
 
-### Run production mode
+# Run production mode
 
 ```bash
 yarn build
@@ -24,6 +24,8 @@ cd ../
 #2
 mkdir docker-compose
 #3
+cd ./docker-compose
+#4
 touch docker-compose.dev
 ```
 Paste this into -> docker-compose.dev
